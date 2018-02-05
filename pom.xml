@@ -43,7 +43,7 @@
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/MPHSNAP//</url>
+		<url>http://localhost:8081/nexus/content/repositories/MPHSNAP/</url>
 	</snapshotRepository>
 
 </distributionManagement>
